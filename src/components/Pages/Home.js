@@ -40,7 +40,7 @@ function Home() {
                                 <tr>
                                     <th scope="row">{index+1}</th>
                                     <td>{user.name}</td>
-                                    <td>{user.userName}</td>
+                                    <td>{user.username}</td>
                                     <td>{user.email}</td>
                                     <td>
                                         <Link className="btn btn-primary mr-2" to={`users/${user.id}`}>View</Link>

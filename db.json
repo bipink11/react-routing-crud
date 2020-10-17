@@ -122,6 +122,14 @@
       "phone": "987665778989",
       "website": "gmail.com",
       "id": 6
+    },
+    {
+      "name": "Rupak",
+      "username": "kumar",
+      "email": "asda@adasd.com",
+      "phone": "012930130123",
+      "website": "asdasdas",
+      "id": 7
     }
   ]
 }
